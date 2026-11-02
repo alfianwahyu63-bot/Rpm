@@ -1,0 +1,25 @@
+{
+  "name": "SalesPulse · Point 50/50 vs Time Factor",
+  "short_name": "SalesPulse Point",
+  "description": "Point berbobot 50% QTY + 50% NS per merek, dibanding Time Factor harian, input 7 hari dalam satu tabel.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#101b37",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

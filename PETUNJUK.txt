@@ -1,0 +1,10 @@
+SALES PULSE v7 - 5 TEMA + RIWAYAT BULANAN
+
+1. Untuk penggunaan langsung, buka Dashboard_Penjualan_5_Tema_Riwayat_Bulanan.html.
+2. Tema tersedia: Aurora, Midnight, Ocean, Sunset, Forest.
+3. UI tersedia: Modern, Glass UI, Compact. Pilih dari tombol Ganti Tema.
+4. Riwayat penjualan dikelompokkan per bulan kalender (interval 1 bulan).
+5. Riwayat TIDAK dihapus otomatis; data tetap di browser yang sama hingga dihapus / perangkat direset.
+6. Gunakan Backup Semua Riwayat JSON minimal sebulan sekali, terutama jika berpindah perangkat.
+7. PWA: unggah seluruh isi ZIP ke hosting HTTPS, lalu buka index.html dan gunakan install app di browser.
+8. Upload Excel, target per merek, PLU/HPP per minggu, QTY Senin-Minggu, serta POINT bobot QTY 50% + NS 50% tetap ada.
