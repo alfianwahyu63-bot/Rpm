@@ -1,0 +1,11 @@
+SALES PULSE v8 – Dashboard 5 Tema & Edit Judul/Teks
+
+1. Jalankan index.html melalui hosting HTTPS untuk memasangnya sebagai PWA.
+2. Gunakan tombol "Edit Teks" di bagian atas dashboard.
+3. Anda dapat mengubah nama aplikasi, judul dan keterangan setiap halaman, judul dan deskripsi grafik, banner, serta menambah catatan dashboard.
+4. Klik "Simpan Teks". Seluruh isi teks disimpan lokal dan juga disertakan dalam Backup JSON versi baru.
+5. Rumus Point 50% QTY + 50% NS, Time Factor, data Excel/PLU, penjualan, dan riwayat tetap berjalan seperti sebelumnya.
+6. Untuk mengubah isi teks ke bawaan, gunakan "Kembalikan Default".
+7. Untuk keamanan data, lakukan Backup JSON setiap bulan.
+
+Catatan: Versi HTML biasa tetap bisa dibuka tanpa hosting; install PWA membutuhkan HTTPS / localhost.
